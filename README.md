@@ -1,6 +1,10 @@
 ## my wibsite: [郑州大学数据中台](https://sirtamago.github.io/gatepasscode/)
 
+---
+
 下边是原README
+
+---
 
 # gatepasscode
 郑州大学主校区入校通行码，适配北门、东门、南门。
