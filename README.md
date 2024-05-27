@@ -1,4 +1,4 @@
-## my wibsite: [郑州大学数据中台](gatepasscode.rimrose.site)
+## my wibsite: [郑州大学数据中台](sirtamago.github.io/gatepasscode)
 
 ---
 
